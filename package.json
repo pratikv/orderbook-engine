@@ -1,0 +1,92 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "orderbook-engine",
+        "scope": null,
+        "escapedName": "orderbook-engine",
+        "name": "orderbook-engine",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\wsdemo\\orderExecutor"
+    ]
+  ],
+  "_from": "orderbook-engine@latest",
+  "_id": "orderbook-engine@1.1.2",
+  "_inCache": true,
+  "_location": "/orderbook-engine",
+  "_nodeVersion": "5.8.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/orderbook-engine-1.1.2.tgz_1490869440589_0.14748732815496624"
+  },
+  "_npmUser": {
+    "name": "dtylove",
+    "email": "59703122@qq.com"
+  },
+  "_npmVersion": "3.7.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "orderbook-engine",
+    "scope": null,
+    "escapedName": "orderbook-engine",
+    "name": "orderbook-engine",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/orderbook-engine/-/orderbook-engine-1.1.2.tgz",
+  "_shasum": "ffa22ae59e81a50da91160cddabc2ed104b568d8",
+  "_shrinkwrap": null,
+  "_spec": "orderbook-engine",
+  "_where": "D:\\wsdemo\\orderExecutor",
+  "author": {
+    "name": "Jingtum"
+  },
+  "dependencies": {
+    "collections": "^5.0.6",
+    "lodash": "^4.17.4",
+    "sort-object": "^3.0.2"
+  },
+  "description": "order book match engine",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "ffa22ae59e81a50da91160cddabc2ed104b568d8",
+    "tarball": "https://registry.npmjs.org/orderbook-engine/-/orderbook-engine-1.1.2.tgz"
+  },
+  "gitHead": "4adb7c022f4cdce5a3241785cca696272e177a07",
+  "keywords": [
+    "orderbook",
+    "engine",
+    "match"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "dtylove",
+      "email": "59703122@qq.com"
+    },
+    {
+      "name": "landoyjx",
+      "email": "landoyjx@163.com"
+    }
+  ],
+  "name": "orderbook-engine",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "http://git.jingtum.com/landoyjx/orderbook-engine.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.2"
+}
