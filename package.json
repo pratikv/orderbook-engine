@@ -70,12 +70,8 @@
   "main": "index.js",
   "maintainers": [
     {
-      "name": "dtylove",
-      "email": "59703122@qq.com"
-    },
-    {
-      "name": "landoyjx",
-      "email": "landoyjx@163.com"
+      "name": "ratnesh",
+      "email": "ratneshsinghparihar@gmail.com "
     }
   ],
   "name": "orderbook-engine",
